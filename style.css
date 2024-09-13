@@ -622,7 +622,7 @@ margin-top: 10px;
 }
 
 /*media queries for smaller screen*/
-@media   (max-width:1231px){
+@media   (max-width:570px){
   .high{
     display: flex;
     justify-content: flex-start;
